@@ -7,7 +7,7 @@
                 "title": "Glance - 一个自托管的信息聚合仪表盘",
                 "url": "https://github.com/glanceapp/glance",
                 "icon": "",
-                "categories": "生活办公",
+                "categories": "生活办公 ",
                 "tags": "自托管,仪表盘,信息聚合,RSS阅读器,首页管理",
                 "description": "Glance 是一个自托管的仪表盘工具，能够将多个信息源汇聚到一个页面，包括 RSS 订阅、Subreddit 帖子、Hacker News 资讯、天气预报、YouTube 频道更新、Twitch 频道、市场价格、Docker 容器状态、服务器统计等。它轻量、快速，并支持多种自定义选项。"
             },
